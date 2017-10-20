@@ -1,0 +1,7 @@
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-Hard\C-Hard\bin\Debug\C-Hard.exe.config
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-Hard\C-Hard\bin\Debug\C-Hard.exe
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-Hard\C-Hard\bin\Debug\C-Hard.pdb
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-Hard\C-Hard\obj\Debug\C-Hard.csprojResolveAssemblyReference.cache
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-Hard\C-Hard\obj\Debug\C-Hard.csproj.CoreCompileInputs.cache
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-Hard\C-Hard\obj\Debug\C-Hard.exe
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-Hard\C-Hard\obj\Debug\C-Hard.pdb
